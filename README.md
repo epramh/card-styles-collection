@@ -1,10 +1,19 @@
-🎴 Card Styles Collection
+# 🎴 Card Styles Collection
 Welcome to Card Styles Collection – a repository dedicated to showcasing beautifully designed cards for web projects! Whether you need profile cards, product cards, testimonial cards, or interactive hover effects, this repo has it all.
+
+## ✨ Features
+## 🚀 Get Started
+## 🤝 Contributing
+## 📸 Preview
+
 
 ✨ Features
 ✅ A variety of modern & creative card designs
+
 ✅ Fully responsive & easy to customize
+
 ✅ Pure HTML, CSS, and JavaScript implementations
+
 ✅ Ready-to-use code snippets
 
 🚀 Get Started
